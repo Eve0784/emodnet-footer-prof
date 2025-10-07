@@ -56,6 +56,10 @@ div, ul{
     row-gap: 8px;
 }
 
+.row-gap-32{
+    row-gap: 32px;
+}
+
 .column-gap-16{
     column-gap: 16px;
 }
